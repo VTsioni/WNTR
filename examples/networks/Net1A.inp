@@ -26,17 +26,17 @@ wall reactions are included.
 [PIPES]
 ;ID              	Node1           	Node2           	Length      	Diameter    	Roughness   	MinorLoss   	Status
  10              	10              	11              	10530       	18          	100         	0           	Open  	;
- 11              	11              	12              	5280        	14          	100         	0           	Open  	;
+ 11              	11              	12              	2640        	14          	100         	0           	Open  	;
  12              	12              	13              	5280        	10          	100         	0           	Open  	;
  21              	21              	22              	5280        	10          	100         	0           	Open  	;
- 22              	22              	23              	5280        	12          	100         	0           	Open  	;
- 31              	31              	32              	5280        	6           	100         	0           	Open  	;
- 110             	2               	12              	200         	18          	100         	0           	Open  	;
- 111             	11              	21              	5280        	10          	100         	0           	Open  	;
- 112             	12              	22              	5280        	12          	100         	0           	Open  	;
- 113             	13              	23              	5280        	8           	100         	0           	Open  	;
- 121             	21              	31              	5280        	8           	100         	0           	Open  	;
- 122             	22              	32              	5280        	6           	100         	0           	Open  	;
+ 22              	22              	23              	2350        	12          	100         	0           	Open  	;
+ 31              	31              	32              	2000        	6           	100         	0           	Open  	;
+ 110             	2               	12              	2000         	18          	100         	0           	Open  	;
+ 111             	11              	21              	6900        	10          	100         	0           	Open  	;
+ 112             	12              	22              	2640        	12          	100         	0           	Open  	;
+ 113             	13              	23              	10000        	8           	100         	0           	Open  	;
+ 121             	21              	31              	10000        	8           	100         	0           	Open  	;
+ 122             	22              	32              	3000        	6           	100         	0           	Open  	;
 
 [PUMPS]
 ;ID              	Node1           	Node2           	Parameters
